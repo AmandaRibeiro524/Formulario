@@ -9,8 +9,8 @@ Pesquisa de interesse sobre cinema que contém:
 
 -Campo de seleção (Conteúdo favorito);
 
--Campo de seleção (Serviço de straming)
+-Campo de seleção (Serviço de straming);
 
--Campo de comentário.
+-Campo de comentário;
 
 -Botões de "limpar" e "concluir".
